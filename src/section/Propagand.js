@@ -11,7 +11,7 @@ export default class Propagand extends Component {
                         <img className="img-fluid" src="./img/mobile-0819.jpg" alt=""/>
                         <div className="mobile-card d-flex justify-content-between align-items-center p-2">
                             <div className="card-image">
-                                <img src="/img/boxshot.png" alt=""/>
+                                <img src="./img/boxshot.png" alt=""/>
                             </div>
                             <div className="content">
                                 <h5 className="text-white m-0">Stranger Things</h5>

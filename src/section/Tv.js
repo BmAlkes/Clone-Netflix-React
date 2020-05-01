@@ -15,7 +15,7 @@ export default class Tv extends Component {
             </div>
             <div className="col-md-6">
                 <div className="position-relative video-tv">
-                    <img className="img-fluid" src="/img/tv.png" alt="tv"/>
+                    <img className="img-fluid" src="./img/tv.png" alt="tv"/>
                     <video className="our-story-card-video" autoPlay playsInline muted loop>
                         <source src="./img/video-tv.m4v" type="video/mp4"/>
                     </video>

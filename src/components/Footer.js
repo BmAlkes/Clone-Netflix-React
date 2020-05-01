@@ -10,7 +10,7 @@ export default class Footer extends Component {
                         <p>Questions? Contact us.</p>
                         <div className="row">
                             <div className="col-6 col-md-3 mb-2">
-                                <a href="">Faq</a>
+                                <a href="#">Faq</a>
                             </div>
                             <div className="col-6 col-md-3 mb-2">
                                 <a href="">Help Center</a>
