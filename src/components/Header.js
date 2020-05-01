@@ -8,7 +8,7 @@ export default class Header extends Component {
                  <div className="d-flex align-items-center">
                    <img className="logo" src="./img/logo.svg" alt="Netflix-logo"/>
                      <div className="ml-auto">
-                        <a href="#" className="btn-login">Enter</a>
+                        <a href="" className="btn-login">Enter</a>
                     </div>
                 </div>
               </div>
