@@ -5,7 +5,7 @@ export default class Home extends Component {
         return (
             <section className="box">
             <div className="box-background position-absolute">
-                <img src="/img/Bg.jpg " alt="logo"/>
+                <img src="./img/Bg.jpg " alt="logo"/>
             </div>
             <div className="content position-relative d-flex justify-content-center align-items-center">
                 <div className="d-flex flex-column mt-5 pd-5 mt-md-0 ">
